@@ -4,7 +4,6 @@
     "baseUrl": ".",
     "types": ["svelte", "node"],
     "jsx": "react-jsx",
-    "inlineSourceMap": true,
     "inlineSources": true,
     "module": "ESNext",
     "target": "ES6",
