@@ -1,6 +1,8 @@
 {
+  "extends": "@tsconfig/svelte/tsconfig.json",
   "compilerOptions": {
     "baseUrl": ".",
+    "types": ["svelte", "node"],
     "jsx": "react-jsx",
     "inlineSourceMap": true,
     "inlineSources": true,
